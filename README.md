@@ -1,1 +1,1 @@
-This repo is for storing the MLOps practice files.
+This repo is for storing the MLOps practice files added.
